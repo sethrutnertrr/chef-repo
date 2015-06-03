@@ -1,0 +1,12 @@
+{
+  "name": "clients",
+  "clients": [
+    "node1",
+    "trr-validator",
+    "web_app_ubuntu",
+    "SF-WDS-01",
+    "SF-UPLOADER-02.trr.local",
+    "ubuntu-scratchbox",
+    "sf-file-01.TRR.local"
+  ]
+}

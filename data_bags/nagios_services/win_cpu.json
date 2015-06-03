@@ -1,0 +1,5 @@
+{
+	"id": "CPU",
+	"hostgroup_name": "windows",
+	"check_command": "check_cpu"
+}	

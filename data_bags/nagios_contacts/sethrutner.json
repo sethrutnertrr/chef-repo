@@ -1,0 +1,11 @@
+{
+  "id": "sethrutner",
+  "groups": [
+    "sysadmin"
+  ],
+  "shell": "/bin/bash",
+  "htpasswd": "{SHA}boixZQ13esL0JcsDU8ey/up+290=",
+  "nagios": {
+    "email": "seth@therealreal.com"
+  }
+}

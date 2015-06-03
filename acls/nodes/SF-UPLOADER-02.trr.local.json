@@ -1,0 +1,53 @@
+{
+  "create": {
+    "actors": [
+      "SF-UPLOADER-02.trr.local",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "clients",
+      "users"
+    ]
+  },
+  "read": {
+    "actors": [
+      "SF-UPLOADER-02.trr.local",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "clients",
+      "users"
+    ]
+  },
+  "update": {
+    "actors": [
+      "SF-UPLOADER-02.trr.local",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "delete": {
+    "actors": [
+      "SF-UPLOADER-02.trr.local",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "grant": {
+    "actors": [
+      "SF-UPLOADER-02.trr.local",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  }
+}

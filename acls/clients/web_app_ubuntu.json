@@ -1,0 +1,49 @@
+{
+  "create": {
+    "actors": [
+      "pivotal",
+      "web_app_ubuntu"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "read": {
+    "actors": [
+      "pivotal",
+      "web_app_ubuntu"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "update": {
+    "actors": [
+      "pivotal",
+      "web_app_ubuntu"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "delete": {
+    "actors": [
+      "pivotal",
+      "web_app_ubuntu"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "grant": {
+    "actors": [
+      "pivotal",
+      "web_app_ubuntu"
+    ],
+    "groups": [
+      "admins"
+    ]
+  }
+}

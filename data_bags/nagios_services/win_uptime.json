@@ -1,0 +1,5 @@
+{
+	"id": "uptime",
+	"hostgroup_name": "windows",
+	"check_command": "check_nt!UPTIME"
+}

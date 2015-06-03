@@ -1,0 +1,7 @@
+{
+  "name": "base",
+  "description": "base role for servers",
+  "run_list": [
+    "recipe[nrpe]"
+  ]
+}

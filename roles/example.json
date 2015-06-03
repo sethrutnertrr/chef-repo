@@ -1,0 +1,7 @@
+{
+  "name": "example",
+  "description": "This is an example role defined as JSON",
+  "run_list": [
+    "recipe[example]"
+  ]
+}
